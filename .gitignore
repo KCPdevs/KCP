@@ -41,7 +41,6 @@ ModpackUploadTool.bat
 /minecraft/ItemDump.txt
 /minecraft/BotaniaVars.dat
 /minecraftoptions.txt
-README.md
 /minecraftcrafttweaker.log
 github_changelog_generator.gemspec
 ChangelogGenerator.bat
