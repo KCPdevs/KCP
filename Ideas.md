@@ -18,7 +18,8 @@
  * Basically our Ultimate Ingot
  * Long processing chain rather than craft?
 * Quests could be done like ftb interactions, but better.
-*
+* Second TR Circuit: Magamps, capacitors
+* Last TR Circuit: Full semiconductor line inc. Czochralski process. MOSFET, MODFET, etc.
 
 Possible ages to work towards:
 * Magicky early Age
