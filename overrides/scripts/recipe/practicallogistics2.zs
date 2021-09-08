@@ -1,19 +1,24 @@
 // Removal
-
 recipes.remove(<practicallogistics2:hammer>);
 // Addition
 
-recipes.addShaped(<practicallogistics2:hammer>, [[<botania:livingwood>, <botania:livingrock>, <botania:livingwood>],[<botania:manaresource:3>, null, <botania:manaresource:3>], [<botania:livingwood>, <tconstruct:metal:5>, <botania:livingwood>]]);
+recipes.addShaped(
+	<practicallogistics2:hammer>, 
+	[
+		[<botania:livingwood>, <botania:livingrock>, <botania:livingwood>],
+		[<ore:livingwoodTwig>, null, <ore:livingwoodTwig>], 
+		[<botania:livingwood>, <ore:ingotAlubrass>, <botania:livingwood>]
+	]);
 
 
 // Forging Hammer Recipes
-mods.logistics.hammer.addRecipe(<minecraft:iron_ingot>, <thermalfoundation:material:32>);
-mods.logistics.hammer.addRecipe(<minecraft:gold_ingot>, <thermalfoundation:material:33>);
-mods.logistics.hammer.addRecipe(<thermalfoundation:material:128>, <thermalfoundation:material:320>);
-mods.logistics.hammer.addRecipe(<thermalfoundation:material:129>, <thermalfoundation:material:321>);
-mods.logistics.hammer.addRecipe(<thermalfoundation:material:130>, <thermalfoundation:material:322>);
-mods.logistics.hammer.addRecipe(<thermalfoundation:material:131>, <thermalfoundation:material:323>);
-mods.logistics.hammer.addRecipe(<thermalfoundation:material:132>, <thermalfoundation:material:324>);
-mods.logistics.hammer.addRecipe(<thermalfoundation:material:133>, <thermalfoundation:material:325>);
-mods.logistics.hammer.addRecipe(<thermalfoundation:material:160>, <thermalfoundation:material:352>);
+mods.logistics.hammer.addRecipe(<minecraft:iron_ingot>, <ore:plateIron>);
+mods.logistics.hammer.addRecipe(<minecraft:gold_ingot>, <ore:plateGold>);
+mods.logistics.hammer.addRecipe(<ore:ingotCopper>, <ore:plateCopper>);
+mods.logistics.hammer.addRecipe(<ore:ingotTin>, <ore:plateTin>);
+mods.logistics.hammer.addRecipe(<ore:ingotSilver>, <ore:plateSilver>);
+mods.logistics.hammer.addRecipe(<ore:ingotLead>, <ore:plateLead>);
+mods.logistics.hammer.addRecipe(<ore:ingotAluminum>, <ore:plateAluminum>);
+mods.logistics.hammer.addRecipe(<ore:ingotNickel>, <ore:plateNickel>);
+mods.logistics.hammer.addRecipe(<ore:ingotSteel>, <ore:plateSteel>);
 
