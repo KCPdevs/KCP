@@ -488,7 +488,7 @@
 	    "required": true
 	},
 	{
-	    "alias": "FoamFix (foamfix-0.12.1.jar)",
+	    "alias": "FoamFix (foamfix-0.10.14.jar)",
 	    "fileID": 3327893,
 	    "projectID": 278494,
 	    "required": true
