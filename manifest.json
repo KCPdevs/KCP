@@ -98,6 +98,12 @@
             "required": true
         },
         {
+            "alias": "Botaniatweaks (botaniatweaks-1.9.1.jar)",
+            "fileID": 3092102,
+            "projectID": 295114,
+            "required": true
+        },
+        {
             "alias": "Controlling (Controlling-3.0.10.jar)",
             "fileID": 3025548,
             "projectID": 250398,
