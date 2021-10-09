@@ -236,7 +236,7 @@
           "groupDetect:1": 0,
           "ignoreNBT:1": 0,
           "index:3": 0,
-          "consume:1": 0,
+          "consume:1": 1,
           "requiredItems:9": {
             "0:10": {
               "id:8": "tconstruct:pick_head",
@@ -274,7 +274,7 @@
           "groupDetect:1": 0,
           "ignoreNBT:1": 0,
           "index:3": 1,
-          "consume:1": 0,
+          "consume:1": 1,
           "requiredItems:9": {
             "0:10": {
               "id:8": "tconstruct:pickaxe",
@@ -1184,7 +1184,7 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:piston",
+            "id:8": "immersiveengineering:metal_multiblock",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -4496,7 +4496,7 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "id:8": "techreborn:extractor",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -4507,7 +4507,7 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
+          "name:8": "Extractor",
           "desc:8": "No Description"
         }
       },
@@ -5237,6 +5237,26 @@
         }
       },
       "order:3": 4
+    },
+    "5:10": {
+      "quests:9": {},
+      "lineID:3": 5,
+      "properties:10": {
+        "betterquesting:10": {
+          "visibility:8": "NORMAL",
+          "name:8": "Oil",
+          "icon:10": {
+            "id:8": "minecraft:book",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "Oil process will be a major gate to later tiers."
+        }
+      },
+      "order:3": 5
     }
   },
   "questSettings:10": {
