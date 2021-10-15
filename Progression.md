@@ -1,7 +1,6 @@
-# Broad Overview of planned progression for the pack
-This is more of a planning/idea area than a design document, so material found here may be outdated as the pack as worked on.
-Detailed progression planning will take place in quest book
-## Spawn
+# Overview of planned progression for the pack
+## Note major details and all
+##Spawn
 * Player gets armour and food via quest.
 * Get basic tools and whatnot
 * [No more vanilla tools](https://streamable.com/zu3ou9)
