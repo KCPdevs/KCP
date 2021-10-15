@@ -20,6 +20,11 @@
 * Quests could be done like ftb interactions, but better.
 * Second TR Circuit: Magamps, capacitors
 * Last TR Circuit: Full semiconductor line inc. Czochralski process. MOSFET, MODFET, etc.
+* Arc Furnace speeds up specific stuff
+* Life Aggregator
+* NC Tough Alloy requires TR Advanced Alloy
+* VM Tier 1: Requires TR Advanced Alloy, in turn requiring bending machine
+* VM Tier 2: Requires Tough Alloy
 
 Possible ages to work towards:
 * Magicky early Age
