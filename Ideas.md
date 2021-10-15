@@ -25,7 +25,8 @@
 * NC Tough Alloy requires TR Advanced Alloy
 * VM Tier 1: Requires TR Advanced Alloy, in turn requiring bending machine
 * VM Tier 2: Requires Tough Alloy
-
+* EXU2 indexer for early game item storage management?
+  * or Botania's storage system.
 Possible ages to work towards:
 * Magicky early Age
 
