@@ -1,6 +1,5 @@
 # Overview of planned progression for the pack
-## Note major details and all
-##Spawn
+## Spawn
 * Player gets armour and food via quest.
 * Get basic tools and whatnot
 * [No more vanilla tools](https://streamable.com/zu3ou9)
