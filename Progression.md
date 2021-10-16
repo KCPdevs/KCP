@@ -1,25 +1,16 @@
 # Overview of planned progression for the pack
-## Spawn
+Don't need to be terribly detailed, but lay out bullet points in the general order the player will do or unlock things.
+## Beginning 
 * Player gets armour and food via quest.
-* Get basic tools and whatnot
+* Flint tools required to mine stone.
+* Get tinkers smelter and furnace going. 
+  * Use fluid channels for early fluid transportation (mostly lava)
+* Upgrade to Metal tools 
+* Recommend tinkers fluid tank for fluid storage 
+  * Probably don't need to buff it, it's surprisingly good.
+* Get aluminum brass going. 
+
+#### General notes
 * [No more vanilla tools](https://streamable.com/zu3ou9)
-
-## Earlygame
-### Pre-power
-* Use Practical logistics 2 forging hammer  for prepower plates (also would serve as a method of opening the PL2 questline)
-  * Require plates to make machine frames
-* Have arcane archives as a storage option for earlygame
-  * Personally havent used the mod, may require some balancing to be viable for this stage of the game
-* Standard Ticon Progression
-  * Maybe rebalance some of the materials to mix things up, and to make some materials viable
-  * Ticon ore doubling disabled in favor of custom methods (Botantia for earlygame ore doubling?)
-* Use Ticon to make aluminum brass for botania.
-* Progress in botantia to at least fluxfield
-
-### FluxField
-* Gate power behind botania mana, and have it be the sole option for a while.
-  * No need to buff fluxfield, it's pretty damn viable on it's own
-* Get some form of power transportation 
-
-
+* Most early game recipes are unmodified.
 
