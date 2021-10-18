@@ -3,7 +3,7 @@
 ## Back to Basics
 * Player gets armour and food via quest.
 * Get wood
- * Note wooden hoppers and drying racks (Edited to be able to turn rotten flesh into leather)
+  * Note wooden hoppers and drying racks (Edited to be able to turn rotten flesh into leather)
 * Flint tools required to mine stone.
 * Get tinkers smelter and furnace going. 
   * Use fluid channels for early fluid transportation (mostly lava)
@@ -23,7 +23,7 @@
 * Unlock Archivne archives as a early game storage option
 * Early Starcaller
 * Craft a forging hammer to craft early plates
- * Wires can be crafted from these plates
+  * Wires can be crafted from these plates
 * Craft Mana Fluxfield
 
 #### Notes
@@ -31,19 +31,19 @@
 
 ## The Power, It burns!
 * Make some LV cables and connectors
- * These will have no buffer.
+  * These will have no buffer.
 * Craft Carpenter and Squeezer with Sturdy casings
 * Create Mana Sap by squeezing Mana items, and fermenting the diluted mana sap
 * Create Mana Steel by combining Mana Sap and steel
 * Craft Runic Alter, using custom Abrass plates and mana sap
 * Create the Terrestrial Agglomeration Plate (**TAP**)
- * And thus terrasteel, which will be used for Heavy Engineering blocks
+  * And thus terrasteel, which will be used for Heavy Engineering blocks
 * Coke Bricks are created in a Carpenter, alongside some mana sap.
 * Low Grade methonal is created by fermenting Creosole
- * Used to craft many IE parts
+  * Used to craft many IE parts
   * Such as pipes, Engineering Blocks, and circuits
 * Create metal press
- * Used to create gears, as well as plates and such faster (potentally at a better ratio)
+  * Used to create gears, as well as plates and such faster (potentally at a better ratio)
 * Create Crusher and Alloy Kin
 * Create MV Cables
 
