@@ -47,7 +47,11 @@
 * Create Crusher and Alloy Kin
 * Create MV Cables
 
-
+## Power Options
+* IE Biodiesel line
+ * Ethanol
+ * Plant Oil
+ * Combustion Generator
 
 #### Notes
 * Note that Backpacks and Belts exist, and will be useful.
